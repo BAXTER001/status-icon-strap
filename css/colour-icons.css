@@ -1,13 +1,12 @@
-
 .icon-warning {
   background-image: url("../img/glyphicons-halflings-warning.png");
 }
 .icon-danger,.icon-error {
   background-image: url("../img/glyphicons-halflings-error.png");
 }
-.icon-success,
+.icon-success{
   background-image: url("../img/glyphicons-halflings-success.png");
 }
-.icon-info,
+.icon-info{
   background-image: url("../img/glyphicons-halflings-info.png");
 }
